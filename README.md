@@ -6,7 +6,7 @@ A serverless event announcement platform created using AWS services. Users can s
 
 ## 🧱 Architecture Overview
 
-![Architecture Diagram](architecture-diagram/architecture.png)
+![Architecture Diagram]
 
 ---
 
@@ -14,7 +14,7 @@ A serverless event announcement platform created using AWS services. Users can s
 
 - **Amazon SNS** – Sends email notifications to subscribers.
 - **AWS Lambda** – Handles backend logic for subscribing users and announcing events.
-- **Amazon API Gateway** – Exposes secure HTTP endpoints for frontend/API integration.
+- **Amazon API Gateway** – Exposes secure HTTP endpoints for frontend and API integration.
 - **IAM** – Provides secure permission-based access.
 - **Amazon S3** *(optional)* – For hosting static content or storing logs.
 
@@ -27,7 +27,3 @@ A serverless event announcement platform created using AWS services. Users can s
 - ✅ Automatically notify users via Amazon SNS.
 - ✅ Fully serverless (no EC2, no manual scaling needed).
 - ✅ Built with reusable and modular code.
-
----
-
-## 🗂️ Project Folder Structure
