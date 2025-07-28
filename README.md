@@ -7,7 +7,7 @@ A **cloud-native event announcement system** built using AWS Serverless architec
 - 🗓️ View a list of upcoming events  
 - 📝 Create and announce new events using a web form  
 
-This project demonstrates practical skills in deploying AWS serverless services including Lambda, S3, SNS, and API Gateway—ideal for showcasing in GitHub, LinkedIn, and Upwork portfolios.
+This project demonstrates practical skills in deploying AWS serverless services, including Lambda, S3, SNS, and API Gateway—ideal for showcasing in GitHub, LinkedIn, and Upwork portfolios.
 
 ---
 
