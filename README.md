@@ -38,7 +38,8 @@ event-announcement-system/
 
 ## 🖼 Architecture Diagram
 
-![Architecture Diagram]("architecture/event-announcement-architecture.png")
+![Architecture Diagram]("event-announcement-system/architecture
+/event-announcement-architecture.png")
 
 > *Illustrates S3 frontend, Lambda processing, API Gateway endpoints, and SNS notification flow.*
 
